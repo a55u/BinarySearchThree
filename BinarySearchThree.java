@@ -50,9 +50,9 @@ public class BinarySearchThree {
 		}else {
 			return this.right.insert(value);
 		}
-	}///fim condicional else
+	}
 		
-		}///fim insert
+		}
 
 	
 	void preOrder() {
