@@ -22,7 +22,7 @@ A classe `BinarySearchTree` conta com os seguintes métodos principais:
 
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git](https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git)
+    git clone https://github.com/a55u/BinarySearchThree
     ```
 2. Entre na pasta onde o repositório foi clonado:
     ```bash
